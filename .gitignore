@@ -1,0 +1,6 @@
+.env
+node_modules/
+bin
+audios/message_*
+*.exe
+.env.example
